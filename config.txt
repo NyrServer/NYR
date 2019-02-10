@@ -1,6 +1,6 @@
-﻿token=
-owner=525270331611414529
-prefix=v
-game={ FM } 
+token=NTQ0MTk4OTYyNjk0MDYyMDk4.D0HoWA.pz_INGwOpIAwc43sVMEwPAtdoZI
+owner=513378178862022686
+prefix=2
+game= NewYork 
 stayinchannel=true
 songinstatus=true
