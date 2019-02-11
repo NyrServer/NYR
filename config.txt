@@ -1,4 +1,4 @@
-token=NTQ0MTk4OTYyNjk0MDYyMDk4.D0HoWA.pz_INGwOpIAwc43sVMEwPAtdoZI
+token=
 owner=513378178862022686
 prefix=2
 game= NewYork 
